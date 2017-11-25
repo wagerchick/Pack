@@ -114,7 +114,7 @@ public class test {
                     System.out.println("请选择插入的数据类型");
                     System.out.println("1 字符串 2 整型 3 浮点数 ");
                     int jk1 = in.nextInt();
-                    System.out.println("请输入修改后的数据");
+                    System.out.println("请输入要插入数据");
                     switch (jk1) {
                         case 1:
                             String jk2 = in.next();
